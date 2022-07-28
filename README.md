@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Thakare</h1>
 <h3 align="center">A passionate ML/AI learner from India</h3>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **AI/ML, Blockchain**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **ts12thakare@gmail.com**
 
