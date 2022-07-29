@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ts12thakare@gmail.com**
 
-- ⚡ Fun fact **i love composing poetries, panting, playing guitar**
+- ⚡ Fun fact **i love composing poetries, painting, playing guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
