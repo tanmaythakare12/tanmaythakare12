@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 📫 How to reach me **ts12thakare@gmail.com**
+- 📫 How to reach me **tanmay12thakare@gmail.com**
 
 - ⚡ Fun fact **i love composing poetries, painting, playing guitar**
 
