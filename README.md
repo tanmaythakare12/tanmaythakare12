@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Thakare</h1>
-<h3 align="center">A passionate ML/AI learner from India</h3>
+<h3 align="center">A passionate ML/AI learner </h3>
 
 - 🔭 I’m currently working on **AI/ML**
 
