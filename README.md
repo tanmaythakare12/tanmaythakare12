@@ -10,11 +10,11 @@
 
 ### 🧠 About Me
 
-- 🎓 M.S. in Computer Science @ **University of Southern California** (GPA: 3.83) — graduating May 2026
-- 🏢 **ML Engineer Intern @ Paramount** — building multimodal AI pipelines (Gemma 3, vLLM, Vertex AI) for 3000+ videos
-- 🔬 Former **Graduate Researcher @ USC** — RAG + LLM fine-tuning (Mistral-7B, LoRA) for clinical NLP
+- 🎓 M.S. in Computer Science @ **University of Southern California** (GPA: 3.83) - graduating May 2026
+- 🏢 **ML Engineer Intern @ Paramount** - building multimodal AI pipelines (Gemma 3, vLLM, Vertex AI) for 3000+ videos
+- 🔬 Former **Graduate Researcher @ USC** - RAG + LLM fine-tuning (Mistral-7B, LoRA) for clinical NLP
 - 🌱 Currently exploring **Multi-Agent AI systems**, **Multimodal Retrieval**, and **Blockchain**
-- 📝 Published researcher — Springer Nature & CANA Journal
+- 📝 Published researcher - Springer Nature & CANA Journal
 
 ---
 
@@ -99,7 +99,7 @@
 - 📄 **Optimized Vehicle Recovery: Leveraging AI & CCTV for Effective Tracking**
   *Communications on Applied Nonlinear Analysis, 2025* · [Read paper →](https://internationalpubls.com/index.php/cana/article/view/3200)
 
-- 📄 **Verificate – Transforming Certificate Verification Using Blockchain Technology**
+- 📄 **Verificate: Transforming Certificate Verification Using Blockchain Technology**
   *Springer Nature, Feb 2024* · [Read paper →](https://link.springer.com/chapter/10.1007/978-3-031-49593-9_12)
 
 ---
