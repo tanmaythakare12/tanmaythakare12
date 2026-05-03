@@ -13,7 +13,7 @@
 - 🎓 M.S. in Computer Science @ **University of Southern California** (GPA: 3.83) - graduating May 2026
 - 🏢 **ML Engineer Intern @ Paramount** - building multimodal AI pipelines (Gemma 3, vLLM, Vertex AI) for 3000+ videos
 - 🔬 Former **Graduate Researcher @ USC** - RAG + LLM fine-tuning (Mistral-7B, LoRA) for clinical NLP
-- 🌱 Currently exploring **Multi-Agent AI systems**, **Multimodal Retrieval**, and **Blockchain**
+- 🌱 Currently exploring **Multi-Agent AI systems**, **Multimodal Retrieval**, **NLP** and **Computer Vision**
 - 📝 Published researcher - Springer Nature & CANA Journal
 
 ---
