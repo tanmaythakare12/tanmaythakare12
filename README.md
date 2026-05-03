@@ -15,7 +15,6 @@
 - 🔬 Former **Graduate Researcher @ USC** — RAG + LLM fine-tuning (Mistral-7B, LoRA) for clinical NLP
 - 🌱 Currently exploring **Multi-Agent AI systems**, **Multimodal Retrieval**, and **Blockchain**
 - 📝 Published researcher — Springer Nature & CANA Journal
-- ⚡ Fun fact: I compose poetry, paint, and play guitar
 
 ---
 
