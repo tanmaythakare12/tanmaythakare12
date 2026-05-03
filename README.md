@@ -2,7 +2,7 @@
 <h3 align="center">ML/AI Engineer · USC M.S. CS · Building intelligent systems at scale</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanmay-thakare-462632235"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanmay-thakare/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tanmay12thakare@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
