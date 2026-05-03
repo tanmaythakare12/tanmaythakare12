@@ -1,21 +1,115 @@
 <h1 align="center">Hi 👋, I'm Tanmay Thakare</h1>
-<h3 align="center">A passionate ML/AI learner </h3>
+<h3 align="center">ML/AI Engineer · USC M.S. CS · Building intelligent systems at scale</h3>
 
-- 🔭 I’m currently working on **AI/ML**
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 📫 How to reach me **tanmay12thakare@gmail.com**
-
-- ⚡ Fun fact **i love composing poetries, painting, playing guitar**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanmay12thakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmay12thakare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmay-thakare-462632235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-thakare-462632235" height="30" width="40" /></a>
-<a href="https://instagram.com/tanmay_thakare12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_thakare12" height="30" width="40" /></a>
-<a href="https://medium.com/@2020.tanmay.thakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@2020.tanmay.thakare" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmay-thakare-462632235"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tanmay12thakare@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 About Me
+
+- 🎓 M.S. in Computer Science @ **University of Southern California** (GPA: 3.83) — graduating May 2026
+- 🏢 **ML Engineer Intern @ Paramount** — building multimodal AI pipelines (Gemma 3, vLLM, Vertex AI) for 3000+ videos
+- 🔬 Former **Graduate Researcher @ USC** — RAG + LLM fine-tuning (Mistral-7B, LoRA) for clinical NLP
+- 🌱 Currently exploring **Multi-Agent AI systems**, **Multimodal Retrieval**, and **Blockchain**
+- 📝 Published researcher — Springer Nature & CANA Journal
+- ⚡ Fun fact: I compose poetry, paint, and play guitar
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| ML Engineer Intern | Paramount · Los Angeles, CA | Jun 2025 – Oct 2025 |
+| Graduate Researcher | University of Southern California · Los Angeles, CA | Jan 2025 – May 2025 |
+| NLP Research Intern | NIT Kurukshetra · Remote, India | Mar 2023 – Aug 2023 |
+| AI Software Engineer Intern | Cere Labs Pvt. Ltd · Mumbai, India | Dec 2022 – Feb 2023 |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white"/>
+</p>
+
+**ML / AI**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangGraph-black?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-6C47FF?style=flat&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
+</p>
+
+**Frameworks & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+</p>
+
+**DevOps & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+</p>
+
+**Databases & Vector Stores**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"/>
+</p>
+
+---
+
+### 📚 Publications
+
+- 📄 **Optimized Vehicle Recovery: Leveraging AI & CCTV for Effective Tracking**
+  *Communications on Applied Nonlinear Analysis, 2025* · [Read paper →](https://internationalpubls.com/index.php/cana/article/view/3200)
+
+- 📄 **Verificate – Transforming Certificate Verification Using Blockchain Technology**
+  *Springer Nature, Feb 2024* · [Read paper →](https://link.springer.com/chapter/10.1007/978-3-031-49593-9_12)
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | GPA | Year |
+|--------|-------------|-----|------|
+| M.S. Computer Science | University of Southern California | 3.83 / 4.0 | 2024 – 2026 |
+| B.E. Computer Engineering (Honors in Blockchain) | University of Mumbai | 9.81 / 10.0 | 2020 – 2024 |
+
+---
